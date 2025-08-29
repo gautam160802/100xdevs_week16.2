@@ -1,4 +1,5 @@
-import { Admin } from "@repo/ui/admin";
+import { Admin } from "@repo/ui/admin"
+
 
 
 export default function() {
